@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fickleflight/static/css/main.2ffce49a.css",
+    "main.js": "/fickleflight/static/js/main.b45fb68b.js",
+    "index.html": "/fickleflight/index.html",
+    "main.2ffce49a.css.map": "/fickleflight/static/css/main.2ffce49a.css.map",
+    "main.b45fb68b.js.map": "/fickleflight/static/js/main.b45fb68b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ffce49a.css",
+    "static/js/main.b45fb68b.js"
+  ]
+}
